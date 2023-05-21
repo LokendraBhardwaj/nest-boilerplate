@@ -1,0 +1,14 @@
+body {
+  font-size: 16px; }
+
+.cats .card-img-top {
+  height: 236px; }
+
+.cats .card-title {
+  color: var(--bs-primary); }
+
+.cats p {
+  font-style: italic;
+  font-size: .9rem; }
+
+/*# sourceMappingURL=style.css.map */
