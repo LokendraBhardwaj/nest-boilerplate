@@ -16,3 +16,12 @@ body {
         font-size: .9rem;
     }
 }
+
+.chat{
+    .message {
+        &__area {
+            height: calc(100vh - 95px);
+            max-height: calc(100vh - 95px);
+        }
+    }
+}
